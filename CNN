@@ -1,0 +1,5 @@
+CNN and ResNet exercises focus on getting to know the basics of neural networks. It starts with linear layers, and then moves quickly into convolutions. The end of the exercises finished with ResNet34 built from scratch
+
+# Making your own modules
+
+Initially, we are being presented with nn.Module class, that is inhereted by all Neural Network's building blocks. The main functionality of nn.Module are the __init__ (initializes parameters, hyperparameters or other sub-modules of nn.Module) and forward (takes the initialized arguments )methods 
